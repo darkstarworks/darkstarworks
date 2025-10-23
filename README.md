@@ -10,9 +10,7 @@
 
 <table>
   <tr>
-    <td><p><a href="https://github.com/darkstarworks/llm-coding-toolset" title="LLM-Coding Toolset">handy tools for <em>llm-coding</em><a></p></td>
-    <td>&amp;</td>
-    <td><p><a href="https://github.com/darkstarworks/" title="Private Repository">a fun project related to music<a></p></td>
+    <td><p><a href="https://github.com/darkstarworks/DupeTrace" title="DupeTrace">Item Duplication Detection Plugin, For PaperMC 1.21.10<a></p></td>
   </tr>
 </table>
 
