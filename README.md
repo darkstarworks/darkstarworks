@@ -10,12 +10,12 @@
 
 <table>
   <tr>
-    <td><p><a href="https://github.com/darkstarworks/DupeTrace" title="DupeTrace">Anti-Dupe Plugin<a></p></td>
-    <td><p><a href="https://github.com/darkstarworks/TrialChamberPro" title="DupeTrace">Trial Chamber Plugin<a></p></td>
+    <td><p align="center"><a href="https://github.com/darkstarworks/DupeTrace" title="DupeTrace">Anti-Dupe Plugin<a></p></td>
+    <td><p align="center"><a href="https://github.com/darkstarworks/TrialChamberPro" title="DupeTrace">Trial Chamber Plugin<a></p></td>
   </tr>
   <tr>
-    <td><p><a href="https://github.com/darkstarworks/PluginGuard" title="PluginGuard">Hide Plugins from Users<a></p></td>
-    <td><p><a href="https://github.com/darkstarworks/" title="COMING SOON">COMING SOON<a></p></td>
+    <td><p align="center"><a href="https://github.com/darkstarworks/PluginGuard" title="PluginGuard">Hide Plugins from Users<a></p></td>
+    <td><p align="center"><a href="https://github.com/darkstarworks/" title="Coming Soon">Coming Soon<a></p></td>
   </tr>
 </table>
 
