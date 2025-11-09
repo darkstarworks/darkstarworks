@@ -6,16 +6,18 @@
 
 <div style="text-justify:left;">
   
-### 🔭 currently working on <br>
+### My Plugins: <br>
 
 <table>
   <tr>
-    <td><p align="center"><a href="https://github.com/darkstarworks/DupeTrace" title="DupeTrace">Anti-Dupe Plugin<a></p></td>
-    <td><p align="center"><a href="https://github.com/darkstarworks/TrialChamberPro" title="DupeTrace">Trial Chamber Plugin<a></p></td>
+    <td><p align="center"><a href="https://github.com/darkstarworks/DupeTrace" title="Minecraft Anti-Dupe Plugin">DupeTrace<a></p></td>
+    <td><p align="center"><a href="https://github.com/darkstarworks/TrialChamberPro" title="Minecraft Trial Chamber Plugin">TrialChamberPro<a></p></td>
+    <td><p align="center"><a href="https://github.com/darkstarworks/PluginGuard" title="Hide Minecraft Plugins from Users">PluginGuard<a></p></td>
   </tr>
   <tr>
-    <td><p align="center"><a href="https://github.com/darkstarworks/PluginGuard" title="PluginGuard">Hide Plugins from Users<a></p></td>
-    <td><p align="center"><a href="https://github.com/darkstarworks/" title="Coming Soon">Coming Soon<a></p></td>
+    <td><p></p></td>
+    <td><p align="center"><a href="https://github.com/darkstarworks/" title="Minecraft Advancements Plugin">Coming Soon<a></p></td>
+    <td><p></p></td>
   </tr>
 </table>
 
