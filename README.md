@@ -15,9 +15,9 @@
     <td><p align="center"><a href="https://github.com/darkstarworks/PluginGuard" title="Hide Minecraft Plugins from Users">PluginGuard<a></p></td>
   </tr>
   <tr>
-    <td><p></p></td>
-    <td><p align="center"><a href="https://github.com/darkstarworks/" title="Minecraft Advancements Plugin">Coming Soon<a></p></td>
-    <td><p></p></td>
+    <td><p align="center">»</p></td>
+    <td><p align="center"><a href="https://esmp.fun/" title="Premium Plugin Modules for TrialChamberPro">TCP Plugin Modules<a></p></td>
+    <td><p align="center">«</p></td>
   </tr>
 </table>
 
@@ -31,7 +31,7 @@ Everything is relatively close to anything.
 
 </div>
 <div align="center">
-  <a href="https://github.com/darkstarworks"><img width="345" src="https://github-readme-stats.vercel.app/api?username=darkstarworks&show_icons=true&title_color=silver&icon_color=silver&text_color=silver&bg_color=0c2036&count_private=true" alt="darkstarworks's github stats" /></a>
+  <a href="https://github.com/darkstarworks"><img width="345" src="https://stats.justsong.cn/api/github?username=darkstarworks&theme=dark" alt="darkstarworks's github stats" /></a>
 </div>
 
 
