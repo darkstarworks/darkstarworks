@@ -10,9 +10,9 @@
 
 <table>
   <tr>
-    <td><p align="center"><a href="https://github.com/darkstarworks/AntiDupePro" title="Minecraft Anti-Dupe Plugin">AntiDupePro<a></p></td>
+    <td><p align="center"><a href="https://github.com/darkstarworks/AncientCityPro" title="Minecraft Ancient City Plugin">AncientCityPro<a></p></td>
     <td><p align="center"><a href="https://github.com/darkstarworks/TrialChamberPro" title="Minecraft Trial Chamber Plugin">TrialChamberPro<a></p></td>
-    <td><p align="center"><a href="https://github.com/darkstarworks/PluginGuard" title="Hide Minecraft Plugins from Users">PluginGuard<a></p></td>
+    <td><p align="center"><a href="https://github.com/darkstarworks/AntiDupePro" title="Minecraft Anti-Dupe Plugin">AntiDupePro<a></p></td>
   </tr>
   <tr>
     <td><p align="center">»</p></td>
