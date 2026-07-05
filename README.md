@@ -6,7 +6,12 @@
 
 <div style="text-justify:left;">
   
-### My Plugins: <br>
+
+
+### [ [PluginPulse](https://github.com/darkstarworks/PluginPulse) ] - The Plugin Auto-Update tool for Everyone
+> (developers / server owners / plugin users)
+
+## My Plugins: <br>
 
 <table>
   <tr>
@@ -31,16 +36,16 @@
   </tr>
   <tr>
     <td><p align="center"><a href="https://github.com/darkstarworks/PluginGuard" title="Minecraft Server Protection Plugin">PluginGuard<a></p></td>
-    <td><p align="center">« older, less maintained »</p></td>
+    <td><p align="center">← older, less maintained →</p></td>
     <td><p align="center"><a href="https://modrinth.com/plugin/strawman" title="Minecraft Training Dummy Plugin">StrawMan<a></p></td>
   </tr>
 </table>
 
 ### ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ 
+### Creating things nobody else has.
+### ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ 
 
-### ⚡fun fact: <br>
-
-Everything is relatively close to anything.
+<br> 
 
 </div>
 
@@ -48,6 +53,3 @@ Everything is relatively close to anything.
 <div align="center">
   <a href="https://github.com/darkstarworks"><img width="345" src="https://stats.justsong.cn/api/github?username=darkstarworks&theme=dark" alt="darkstarworks's github stats" /></a>
 </div>
-
-
-[id]: http://example.com/  "Optional Title Here"
